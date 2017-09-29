@@ -1,0 +1,20 @@
+README 
+Statki - Małgorzata Olak - Zadanie 5 
+
+Uruchomienie gry w konsoli: 
+python statki.py 
+
+Aby grać jako Serwer należy wybrać S, aby grać jako Klient należy wybrać C. 
+
+Następnie należy rozstawić statki. Można to przeprowadzić manualnie przez wybranie opcji M, albo przez wybranie A - automatyczne rozstawienie. 
+
+Grę rozpoczyna serwer. 
+
+W turze gracza możemy albo grać przez naciśnięcie G albo rozmawiać - naciskając R. 
+W trakcie gry wybieramy koordynaty na których chcemy wykonać strzał. 
+Jeśli trafimy na statek - zyskujemy następną turę. 
+
+Po wybraniu trybu rozmowy wymieniamy komunikaty z przeciwnikiem. Rozgrywający turę użytkownik może zakończyć rozmowę poprzez naciśnięcie klawisza Z. Następnie może znowu grać. 
+
+Gra toczy się do momentu zestrzelenia wszystkich statków na którejkolwiek z plansz. 
+
